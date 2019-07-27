@@ -1,5 +1,8 @@
 
 # CellWars.Async
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3acc4dc791c3475598da252201d4a28c)](https://app.codacy.com/app/jasonkuo41/CellWars.Async?utm_source=github.com&utm_medium=referral&utm_content=jasonkuo41/CellWars.Async&utm_campaign=Badge_Grade_Dashboard)
+
 A re-entrant async lock for C#.
 
 This library originally belongs to a private repository "CellWars" and is now made public, currently only provides `AsyncLock`, which is an async-compatible `lock` in C#.
